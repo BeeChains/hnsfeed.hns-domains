@@ -22,6 +22,6 @@ Tweet the #HNS hashtag
 - <a href="https://twitter.com/intent/tweet?screen_name=search&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @search</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<a class="twitter-timeline" href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw">Tweets by HNSDOMAINS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
