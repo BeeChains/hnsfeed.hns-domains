@@ -11,7 +11,7 @@ Tweet the #HNS hashtag
 
 # Latest Tweet [$HNS tag](https://twitter.com/search?q=$HNS&src=typed_query&f=live)
 
-# buidlr @HNSDOMAINS
+# buidlrs and believers @HNSDOMAINS
 
 - <a href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @HNSDOMAINS</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
