@@ -1,2 +1,2 @@
 # hnsfeed.hns-domains
-Twitter Feed of $HNS 
+A Twitter Feed of @HNS 
